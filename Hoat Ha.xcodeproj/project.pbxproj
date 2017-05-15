@@ -29,7 +29,6 @@
 		DD5B662B1EC0B5E30042FD23 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD5B662A1EC0B5E30042FD23 /* NetworkManager.swift */; };
 		DD5B662D1EC0BEA60042FD23 /* MomentBusinessCtrl.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD5B662C1EC0BEA60042FD23 /* MomentBusinessCtrl.swift */; };
 		DDB614ED1EC2BDE4004A0979 /* ImageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDB614EC1EC2BDE4004A0979 /* ImageManager.swift */; };
-		DDB614EF1EC2C55B004A0979 /* READ ME.md in Sources */ = {isa = PBXBuildFile; fileRef = DDB614EE1EC2C55B004A0979 /* READ ME.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -79,7 +78,6 @@
 		DD5B662A1EC0B5E30042FD23 /* NetworkManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		DD5B662C1EC0BEA60042FD23 /* MomentBusinessCtrl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MomentBusinessCtrl.swift; sourceTree = "<group>"; };
 		DDB614EC1EC2BDE4004A0979 /* ImageManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageManager.swift; sourceTree = "<group>"; };
-		DDB614EE1EC2C55B004A0979 /* READ ME.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "READ ME.md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,7 +118,6 @@
 		DD43800F1EC06591003F9EA5 = {
 			isa = PBXGroup;
 			children = (
-				DDB614EE1EC2C55B004A0979 /* READ ME.md */,
 				DD43801A1EC06591003F9EA5 /* Hoat Ha */,
 				DD43802F1EC06591003F9EA5 /* Hoat HaTests */,
 				DD43803A1EC06591003F9EA5 /* Hoat HaUITests */,
@@ -380,7 +377,6 @@
 				DD5B66181EC092950042FD23 /* Post.swift in Sources */,
 				DDB614ED1EC2BDE4004A0979 /* ImageManager.swift in Sources */,
 				DD20ED051EC0F3CF00BB150A /* BaseTableCell.swift in Sources */,
-				DDB614EF1EC2C55B004A0979 /* READ ME.md in Sources */,
 				DD5B66261EC0AEE40042FD23 /* MomentTableCell.swift in Sources */,
 				DD20ED031EC0F2D000BB150A /* View+Ext.swift in Sources */,
 				DD43801C1EC06591003F9EA5 /* AppDelegate.swift in Sources */,
