@@ -1,6 +1,6 @@
 ## Project 
 
-**Mobile Application Coding Challenge**
+**MMVM Pattern**
 
 **Objective**: Implement local caching mechanism so that cached posts data can be loaded instantly after app launched. Background data update will still needed and you will required to refresh the UI once the latest data is ready.
 
